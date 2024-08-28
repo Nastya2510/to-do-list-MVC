@@ -18,4 +18,4 @@ ___
 
 Структура данных - массив с объектами. (У задачи есть свйоства - id, текст и статус)
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/47ac20ff-f2e1-4102-8b4d-6c2df7f7baf6)
